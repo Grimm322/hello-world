@@ -1,9 +1,9 @@
 # hello-world
 
-Hello Git !!
+###  Hello [GitHub](https://github.com/) !! ###
 
-I am Grimm and know nothing about coding and technical stuff but I like experimenting and learning.
-
-Gardening and computing for the mind. Coffee and pizza for the body.
-Or
-Coffee and computing for the mind. Gardening and pizza for the body.
+-  I am _Grimm_ and know nothing about coding and technical stuff but I like experimenting and learning.
+  
+-  Gardening and computing for the mind. Coffee and pizza for the body.  
+   Or  
+-  Coffee and computing for the mind. Gardening and pizza for the body.
